@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Abhishek kumar,Certified Data scientist from Edwisor with a degree in Engineering, I have hands on experience in analyzing & interpreting data with good numerical accuracy. Skilled in Python, R & tableau, a solution oriented mindset & effective communication skills make me stand out.
+I am Abhishek kumar, Certified Data scientist from Edwisor with a degree in Engineering, I have hands on experience in analyzing & interpreting data with good numerical accuracy. Skilled in Python, R & tableau, a solution oriented mindset & effective communication skills make me stand out.
 
 - 🔭 I’m currently working on Optical Character Recognition project.
 - 🌱 I’m currently learning OpenCV.
